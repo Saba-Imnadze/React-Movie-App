@@ -9,10 +9,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.movie-app > .row {
-  overflow-x: auto;
-  flex-wrap: nowrap;
-}
+ 
 
 .image-container {
   position: relative;
